@@ -1,0 +1,56 @@
+{
+    "nombre": "Moto",
+    "venta": true,
+    "precio": 4230.15,
+    "foto": "moto.jpg",
+    "tags": ["lifestyle", "motor"]
+  },
+  {
+    "nombre": "iPhone 6",
+    "venta": false,
+    "precio": 250.0,
+    "foto": "iphone.png",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "iPhone X",
+    "venta": true,
+    "precio": 1000.0,
+    "foto": "iphonex.png",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "Renault Megane",
+    "venta": true,
+    "precio": 8000.0,
+    "foto": "renault_megane.png",
+    "tags": ["lifestyle", "motor"]
+  },
+  {
+    "nombre": "MacBook Pro 15",
+    "venta": false,
+    "precio": 2500.87,
+    "foto": "macbook_pro.png",
+    "tags": ["work", "lifestyle"]
+  },
+  {
+    "nombre": "iPhone 6S",
+    "venta": true,
+    "precio": 550.0,
+    "foto": "iphone.png",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "Coche",
+    "venta": true,
+    "precio": 6550.0,
+    "foto": "coche.png",
+    "tags": ["motor"]
+  },
+  {
+    "nombre": "Chalet",
+    "venta": true,
+    "precio": 155000.0,
+    "foto": "chalet.png",
+    "tags": ["lifestyle"]
+  }
