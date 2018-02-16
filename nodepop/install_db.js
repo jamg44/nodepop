@@ -1,4 +1,4 @@
-const anuncio = require("Anuncio.js");
+const anuncio = require("./Models/Anuncio");
 const anuncios = JSON.parse(
   fs.readFileSync(__dirname + "/anuncios.json", "utf-8")
 );
