@@ -1,4 +1,4 @@
-{
+{ "anuncios": [{
     "nombre": "Moto",
     "venta": true,
     "precio": 4230.15,
@@ -54,3 +54,4 @@
     "foto": "chalet.png",
     "tags": ["lifestyle"]
   }
+]}
